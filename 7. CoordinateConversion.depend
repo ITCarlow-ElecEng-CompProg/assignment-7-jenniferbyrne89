@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508941782 source:d:\computer programming\lab exercises\7. coordinate conversion\7. coordinateconversion\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<windows.h>
+	<math.h>
+	<cmath>
+
